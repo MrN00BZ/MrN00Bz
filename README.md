@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **sfml and cpp**
 - Also grinding for degree in ECE @ KEC
 - Used to do frontend dev for fun :)
+- Learning GTK w c
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **yushank2341@gmail.com**
