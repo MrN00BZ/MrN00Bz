@@ -15,8 +15,8 @@
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/davinci-resolve-12.svg" alt="DaVinci Resolve 12logo vector" width="40" height="40">
 
 <h2>Intermediate<h2>
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" alt="Premiere Pro CClogo vector" width="40" height="40">
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blenderlogo vector" width="40" height="40">
+<img class="larger" style="display: inline-block; src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" alt="Premiere Pro CClogo vector" width="40" height="40">
+<img class="larger" style="display: inline-block; src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blenderlogo vector" width="40" height="40">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
